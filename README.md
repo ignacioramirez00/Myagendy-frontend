@@ -1,6 +1,6 @@
-# En este repositorio se encuentra el proyecto de Myagendy, un sistema de gestión de citas médicas.
+## Frontend de Myagendy
 
-## Las tecnologías utilizadas son:
+###Las tecnologías utilizadas son:
 
 - React
 - Tailwind
