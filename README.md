@@ -6,11 +6,7 @@
 - Tailwind
 - Next.js
 - TypeScript
-- TypeORM
-- PostgreSQL
 - Docker 
-- NodeJS
-- NestJS
 
 ### Etapa 3 (Diciembre 2024)
 
