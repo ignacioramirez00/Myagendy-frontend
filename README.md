@@ -1,6 +1,6 @@
 ## Frontend de Myagendy
 
-###Las tecnologías utilizadas son:
+### Las tecnologías utilizadas son:
 
 - React
 - Tailwind
