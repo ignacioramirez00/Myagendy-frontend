@@ -8,7 +8,7 @@
 - TypeScript
 - Docker 
 
-### Etapa 3 (Diciembre 2024)
+### Etapa 3 (Octubre 2024)
 
 - Se crea el modelo de datos en PostgreSQL con todas la entidades
 - Se define el MVP de la aplicación
